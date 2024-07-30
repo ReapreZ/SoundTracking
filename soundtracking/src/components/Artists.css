@@ -1,0 +1,38 @@
+.section {
+    padding: 40px 20px;
+    background-color: #fff;
+  }
+  
+  h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  #artist-data {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  #artist-data > div {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 10px;
+    width: 250px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h3 {
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  p {
+    color: #666;
+  }
+  
