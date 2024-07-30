@@ -1,6 +1,6 @@
 ## Before Starting
 
-Rename the config copy.js to config.js and exchange the clientId and clientSecret with your own credentials
+Rename the config_.js to config.js and exchange the clientId and clientSecret with your own credentials
 
 ### Run `npm start`
 
